@@ -9,11 +9,13 @@ m rows
 n columns
 k hampers
 m * n matrix
+
 Constraints
 
 1 <= m <= 100
 1 <= n <= 100
 1 <= k < 15
+
 Output Format
 
 Sorted K points of the center (sorted primarily with respect to x and secondarily with respect to y in ascending order) in the format x y. The centers can be in float, rounded down, or truncated- the checker will handle all the cases quite well.
